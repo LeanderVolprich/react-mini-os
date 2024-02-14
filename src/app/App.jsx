@@ -1,7 +1,8 @@
 import React from "react";
+import { StartMenu } from "./StartMenu";
 
 export class App extends React.Component {
   render() {
-    return <h1>Hello World!</h1>;
+    return <StartMenu></StartMenu>;
   }
 }
