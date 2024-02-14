@@ -12,7 +12,7 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.0"
   },
-  "name": "reactstate2",
+  "name": "mini-web-os",
   "version": "1.0.0",
   "description": "React Project",
   "main": "webpack.config.js",
